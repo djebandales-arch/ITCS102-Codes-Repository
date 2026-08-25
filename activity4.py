@@ -1,1 +1,16 @@
-print("\t\t\t\t\t\t\t\t\t\t\t\t\t* \n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t* \n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t* \n\t\t\t\t\t\t\t\t\t\t* \t\t\t\t\t\t* \n\t\t\t\t\t\t\t\t\t*\t\t\tHi My Name is\t\t\t\t* \n\t\t\t\t\t\t\t\t\t\t*\t\tDjenelle S. Bandales \t\t* \n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t* \n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t* \n\t\t\t\t\t\t\t\t\t\t\t\t\t*")
+# escape sequence
+# \n
+# \t
+# \r
+# \\
+# \*
+
+
+
+
+
+
+
+motto2 = "\t\t\tThe Quick Brown Fox Jumps over the Lazy Dog. \"A negative mind would never give you a positive life\""
+
+print(motto2)

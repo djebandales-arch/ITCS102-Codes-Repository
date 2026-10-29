@@ -1,4 +1,4 @@
-num = 5
+num = int(input("Size: "))
 #top 
 for x in range(1, num, 1):
     for y in range(num - x):
@@ -6,10 +6,10 @@ for x in range(1, num, 1):
     for stars in range(x):
         print("*", end=" ")
     print()
-num = 5
+
 for column in range(num, 0, -1):
     for rows in range(num - column):
-        print(" ", end="")
+        print("", end=" ")
     for asterisk in range(column):
         print("*", end=" ")
     print()
